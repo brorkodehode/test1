@@ -1,3 +1,5 @@
+{ box-sizing: border-box;
+    margin: 0;}
 .item1 {
     
     color: rgb(43, 122, 43);
@@ -10,12 +12,17 @@
     padding: 8%;
     color:blueviolet
 }
+.center {text-align: center;}
 .item3 {
-    background-color: rgba(137, 43, 226, 0.295);
-    border: 40cap;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.356);
+    border-color: rgb(26, 197, 91);
+    border-style: ridge;
+    border-width: thick
 }
-.backgr {
-    background-color: rgba(87, 132, 190, 0.541);
-    border: 20cap;
-    padding: 7%;
+.item4 {
+    text-align: center;
+    background-color: rgba(165, 165, 78, 0.418);
+    padding: 15px;
+    border:3px dotted #f8a100; height:
 }
