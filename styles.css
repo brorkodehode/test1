@@ -1,0 +1,16 @@
+.item1 {
+    
+    color: rgb(43, 122, 43);
+    text-align: center;
+}
+.item2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+    padding: 8%;
+    color:blueviolet
+}
+.item3 {
+    background-color: rgba(137, 43, 226, 0.295);
+    border: 40cap;
+}
